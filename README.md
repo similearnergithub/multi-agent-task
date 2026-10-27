@@ -105,7 +105,8 @@ Enter a job description and a comma-separated list of candidate skills when prom
 The screenshot below shows the successful execution of the
 three-agent workflow and the generated final report.
 
-![Final Report](<output pic/screenshot.png>)
+![Final Report](<output pic/Screenshot 2026-10-27 175920.png>)
+
 
 ## Skill Matching Logic
 
